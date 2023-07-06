@@ -1,0 +1,5 @@
+I:\Max\Perf_gr\Gb\Examples\TaskCS8_56\bin\Debug\TaskCS8_56.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS8_56\bin\Debug\TaskCS8_56.pdb
+I:\Max\Perf_gr\Gb\Examples\TaskCS8_56\obj\x86\Debug\TaskCS8_56.exe
+I:\Max\Perf_gr\Gb\Examples\TaskCS8_56\obj\x86\Debug\TaskCS8_56.pdb
+I:\Max\Perf_gr\Gb\Examples\TaskCS8_56\obj\x86\Debug\TaskCS8_56.csprojResolveAssemblyReference.cache
